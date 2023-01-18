@@ -12,7 +12,7 @@ const DUMMY_MEALS = [
     id: "m2",
     name: "Thali",
     description: "Panjabi Thali !",
-    price: 3000,
+    price: 300,
   },
   {
     id: "m3",
