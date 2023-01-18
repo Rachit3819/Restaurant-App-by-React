@@ -4,7 +4,7 @@ function MealItemForm(props){
     return(
         <form className={classes.form}>
             <Input lable="Amount" input={{
-                id:'amount',
+                id:'amount'+props.id,
                 type:'number',
                 min:'1',
                 max:'5',
